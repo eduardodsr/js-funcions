@@ -9,14 +9,16 @@
 
 
 **Instituição**: Udemy - Cod3r  
+
 **Nome**: Fundamentos de JavaScript Funcional
+
 **Professor**: Leonardo Moura Leitao  
 
 
 **Link** : https://www.udemy.com/course/fundamentos-de-javascript-funcional/
 
 
-**Codigo Fonte** : [Fundamentos](https://github.com/eduardodsr/js-funcions)
+**Codigo Fonte** : [Fundamentos](https://github.com/eduardodsr/js-funcions/tree/master/foundation)
 
 <br>
 
