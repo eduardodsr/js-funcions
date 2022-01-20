@@ -25,7 +25,7 @@
 Tópicos   | Concluído
 --------- | ------
 Seção 1: Introdução | 100%
-Seção 2: Fundamentos| 10%
+Seção 2: Fundamentos| 80%
 Seção 3: Programação Funcional | 0%
 
 <br>
