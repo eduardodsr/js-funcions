@@ -1,0 +1,12 @@
+##### MAC OS #####
+
+# General
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+._.DS_Store
+
+# Packages #
+*.dmg
+*.rar
+*.zip
