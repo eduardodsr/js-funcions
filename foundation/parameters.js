@@ -8,8 +8,8 @@ function logParams (a, b, c) {
 
 logParams(1, 2, 3);         // 1 2 3
 
-logParams(1, 2, 3, 4);      // 1 2 3
-logParams(1, 2, 3, 4, 5);   // 1 2 3
+logParams(1, 2, 3, 4);      // 1 2 3    // ignore 4
+logParams(1, 2, 3, 4, 5);   // 1 2 3    // ignore 4 and 5
 
 logParams(1, 2);            // 1 2 undefined
 logParams(1);               // 1 undefined undefined
