@@ -19,8 +19,9 @@
 **Link**: [Udemy - Fundamentos de JavaScript Funcional](https://www.udemy.com/course/fundamentos-de-javascript-funcional/)
 
 
-
-**Codigo Fonte**: [Fundamentos](https://github.com/eduardodsr/js-funcions/tree/master/foundation)
+**Codigo Fonte**: 
+- [Fundamentos](https://github.com/eduardodsr/js-funcions/tree/master/foundation)
+- [Programação Funcional](https://github.com/eduardodsr/js-funcions/tree/master/functional)
 
 <br>
 
